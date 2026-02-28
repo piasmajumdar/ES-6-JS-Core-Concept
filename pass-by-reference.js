@@ -11,4 +11,4 @@ const num2 = [4,5,6];
 
 console.log('before the function call: ', num1, num2);
 const result = firstSum(num1, num2);
-console.log('before the function call: ', num1, num2);
+console.log('after the function call: ', num1, num2);
